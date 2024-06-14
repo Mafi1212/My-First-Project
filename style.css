@@ -75,7 +75,7 @@
 }
 
 .dropdownmenu > li:hover > a{
-    color: rgb(255, 255, 255);
+    color: #ffffff;
 }
 
 .dropdownmenu > li > a{
@@ -90,7 +90,7 @@
     transform: scaleY(1);
     transition: 0.5s;
 }
-
+/*heroArea code start*/
 .hero-area{
     text-align: center;
     background-image:url(web\ header.jpg);
@@ -138,7 +138,7 @@
 
 .hero1 h5{
    font-size: 35px; 
-   color: rgb(25, 2, 109);
+   color: #19026d;
    font-family: sans-serif;
 }
 
@@ -167,9 +167,9 @@
 
 .icon > a > i:hover{
     background-color: #0f0067cf;
-    color: rgb(5, 250, 193);
+    color: #05fac1;
     transform: rotate(360deg);
-    border: 2px solid rgb(0, 255, 0);
+    border: 2px solid #00ff00;
 }
 
 /* section-1 start*/
@@ -203,13 +203,6 @@
 }
 
 /*second section code start here*/
-
-/*#section2{
-    background-image:url(images\ \(8\).jpg) ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}*/
 
 .smartArea-title{
     position: relative;
